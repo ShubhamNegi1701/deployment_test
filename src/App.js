@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Heroku Deployment Workshop
+         Heroku Deployment Workshop in progress
         </p>
         <a
           className="App-link"
